@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Learning SL",
+  "description": "An AI-powered educational platform for Sri Lankan students featuring syllabus-based notes, quizzes, and a study planner in English, Sinhala, and Tamil.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
